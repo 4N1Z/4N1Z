@@ -1,9 +1,9 @@
-<img src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif" width="50px">
+<img src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif" width="120px">
 
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aniz
-### I am a programmer , a learner and a student. 
-### I like exploring the field of open source.
-### Currently pursuing computer science degree. 
+# Hello there <img src="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="30px"> , I'm Aniz
+#### I am a programmer , a learner and a student. 
+#### I like exploring the field of open source.
+#### Currently pursuing computer science degree. 
 
 ## Currently Learning <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
