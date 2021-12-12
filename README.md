@@ -45,7 +45,7 @@
 ## **Connect with me on** <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="45px">
 <p align ="center">
   <a target="_blank"href="https://twitter.com/aniz_nowshad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:anizbinnowshad@gmail.com?subject=Hey%20Pranav,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:anizbinnowshad@gmail.com?subject=Hey%20Aniz,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a target="_blank"href="https://www.discordapp.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
