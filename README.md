@@ -2,8 +2,8 @@
 
 ## Hello there , <img src="https://i.pinimg.com/originals/a8/d0/ff/a8d0ff331b4fffd6f536c38e09725fc0.gif" width="50px">  I'm Aniz
 
- Aspiring Froontend developer || student. 
- || I like exploring the field of open source.
+ Aspiring Frontend developer || Student. 
+ || Exploring the field of open source.
  || Currently pursuing computer science degree. 
 
 ## Currently Learning  <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
