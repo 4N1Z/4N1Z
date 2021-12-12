@@ -1,6 +1,6 @@
 <p align ="center"><img src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif" width="300rem"></p>
 
-## Hello there <img src="https://i.pinimg.com/originals/a8/d0/ff/a8d0ff331b4fffd6f536c38e09725fc0.gif" width="50px"> , I'm Aniz
+## Hello there , <img src="https://i.pinimg.com/originals/a8/d0/ff/a8d0ff331b4fffd6f536c38e09725fc0.gif" width="50px">  I'm Aniz
 
  Aspiring Froontend developer || student. 
  || I like exploring the field of open source.
@@ -12,6 +12,7 @@
  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ 
  </p>
 
 ---
