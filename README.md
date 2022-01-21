@@ -38,7 +38,7 @@
 
  <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/aniz-bin-nowshad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://www.hackerrank.com/anizbn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
+<!--     <a target="_blank"href="https://www.hackerrank.com/anizbn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  -->
 
 </p>
 
