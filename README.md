@@ -1,10 +1,18 @@
 <p align ="center"><img src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif" width="300rem"></p>
+<!--  <p align="right">
+ <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
+ </p> -->
 
 ## Hello there , <img src="https://i.pinimg.com/originals/a8/d0/ff/a8d0ff331b4fffd6f536c38e09725fc0.gif" width="50px">  I'm Aniz
 
  Aspiring Frontend developer || Student. 
  || Exploring the field of open source.
  || Currently pursuing computer science degree. 
+ 
+ 
+ 
+
+ 
 
 ## Currently Learning  <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
 
@@ -19,14 +27,28 @@
 
 ## **Gthub Stats <img src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px">**
 
-<!--  <p align ="center">  -->
+ 
+ <p align="center">
 <a href="https://github.com/4N1Z">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=4N1Z&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
+  <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
+ </p>
+ <p align ="center"> 
+ <br>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N1Z&layout=compact&langs_count=8&hide_border=true&theme=dracula"/>
-<!--   </p>
-  
- <p align="center">  -->
-  <img height="140em" src="https://activity-graph.herokuapp.com/graph?username=4N1Z&hide_border=true&theme=dracula" />
+ <br>
+   <img height="140em" src="https://activity-graph.herokuapp.com/graph?username=4N1Z&hide_border=true&theme=dracula" />
+ 
+ 
+ </p>
+
+<!-- 
+ <p align="right">
+ <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
+ </p>
+   -->
+
+
 <!--   </p> -->
   
 ---
