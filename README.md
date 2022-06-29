@@ -1,73 +1,69 @@
-<p align ="center"><img src="https://i.pinimg.com/originals/1a/a5/41/1aa54136f55c03a40ba7192ebe9b0a41.gif" width="300rem"></p>
-<!--  <p align="right">
- <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
- </p> -->
-
-## Hello there , <img src="https://i.pinimg.com/originals/a8/d0/ff/a8d0ff331b4fffd6f536c38e09725fc0.gif" width="50px">  I'm Aniz
-
- Aspiring Frontend developer || Student. 
- || Exploring the field of open source.
- || Currently pursuing computer science degree. 
- 
- 
- 
-
- 
-
-## Currently Learning  <img src="https://thumbs.gfycat.com/PerfumedColossalGadwall-size_restricted.gif" width="30px">
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
- <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
- <img src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> </p>
-
----
-
-## **Gthub Stats <img src="https://media.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" width="30px">**
-
- 
- <p align="center">
-<a href="https://github.com/4N1Z">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=4N1Z&theme=dracula&show_icons=true&&hide_border=true&count_private=true"/>
-  <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
- </p>
- <p align ="center"> 
- <br>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N1Z&layout=compact&langs_count=8&hide_border=true&theme=dracula"/>
- <br>
-   <img height="140em" src="https://activity-graph.herokuapp.com/graph?username=4N1Z&hide_border=true&theme=dracula" />
- 
- 
- </p>
-
-<!-- 
- <p align="right">
- <a href="https://app.daily.dev/4N1Z"><img src="https://api.daily.dev/devcards/f0c7215cf1c444108b43f50c37660a37.png?r=wtv" width="200" alt="Aniz B N's Dev Card"/></a>
- </p>
-   -->
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Aniz </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 
-<!--   </p> -->
-  
----
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniz-bin-nowshad/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/just_my_designs_/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
+[![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=flat-for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aniz14)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aniz/)
+[![Linktree](https://img.shields.io/badge/linktree-black?style=flat-for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/anizbn)
+
+### Familiar Languages 
+![C](https://img.shields.io/badge/C-00599C?style=flat-for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-for-the-badge&logo=sass&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-for-the-badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E)
+![python](https://img.shields.io/badge/Python-FFD43B?styleflat-=for-the-badge&logo=python&logoColor=blue)
+
+### Familiar Tools 
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-for-the-badge&logo=Canva&logoColor=white)
 
 
-## **Profiles** <img src="https://thumbs.gfycat.com/ExhaustedSpottedGazelle-size_restricted.gif" width="30px">
- 
----
 
- <p align="center">
-    <a target="_blank"href="https://www.linkedin.com/in/aniz-bin-nowshad"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!--     <a target="_blank"href="https://www.hackerrank.com/anizbn"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  -->
 
+
+### Glad to see you here &nbsp;!
+
+I am a computer engineer and Designer. I design code develop create take photos and Travel.
+
+As a computer engineer as well as a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [mail me](anizbinnowshad@gmail)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1wTGku-7rxsEpXCsaoei444B40ZXgkX2R/view).
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4N1Z&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N1Z&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## **Connect with me on** <img src="https://onlinegiftools.com/images/examples-onlinegiftools/jump-hello-transparent.gif" width="45px">
-<p align ="center">
-  <a target="_blank"href="https://twitter.com/aniz_nowshad"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="mailto:anizbinnowshad@gmail.com?subject=Hey%20Aniz,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a target="_blank"href="https://www.discordapp.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
