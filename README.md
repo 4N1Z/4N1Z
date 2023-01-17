@@ -9,7 +9,8 @@
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=flat-the-badge&logo=hashnode&logoColor=white)](https://aniz.hashnode.dev/)
 [![Linktree](https://img.shields.io/badge/linktree-black?style=flat-for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/anizbn)
 
-### Familiar Languages 
+### <samp>  Familiar Languages & Frameworks </samp>
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat-for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?styleflat-=for-the-badge&logo=python&logoColor=blue)
@@ -20,7 +21,7 @@
 
 
 
-### Familiar Tools 
+### <samp>  Familiar Tools </samp>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-for-the-badge&logo=figma&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -34,15 +35,14 @@
 
 
 
-### Glad to see you here &nbsp;!
+### <samp> Glad to see you here &nbsp;! </samp>
 
-I am a computer engineer and Designer. I design code develop create take photos and Travel.
+I am a computer engineer, developer and UI/UX Designer. I design code develop create take photos and Travel.
 
-As a computer engineer as well as a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a developer and a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-
-**Talking about Personal Stuffs:**
-
+ ### <samp>&gt; Talking about Personal Stuffs: </samp>
+ 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/aniz/).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
@@ -52,7 +52,7 @@ As a computer engineer as well as a designer, I enjoy using my obsessive attenti
 
 </br>
 
-📊 **This Week I Spent My Time On:**
+### <samp> 📊 **This Week I Spent My Time On:** </samp>
 <!--START_SECTION:waka-->
 
 
@@ -63,7 +63,7 @@ No activity tracked
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
+ ### <samp> 📈 **My GitHub Stats:** <samp>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=4N1Z&theme=dark&hide_border=true)<br/>
 
