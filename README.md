@@ -3,28 +3,32 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aniz-bin-nowshad/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/just_my_designs_/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=black)](https://instagram.com/just_my_designs_/)
 [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=flat-for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/aniz14)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/aniz/)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=flat-the-badge&logo=hashnode&logoColor=white)](https://aniz.hashnode.dev/)
 [![Linktree](https://img.shields.io/badge/linktree-black?style=flat-for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/anizbn)
 
 ### Familiar Languages 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-for-the-badge&logo=sass&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-for-the-badge&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-FFD43B?styleflat-=for-the-badge&logo=python&logoColor=blue)
+![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
+![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=black)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-for-the-badge&logo=sass&logoColor=white)
+
+
 
 ### Familiar Tools 
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-for-the-badge&logo=figma&logoColor=black)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat-for-the-badge&logo=Canva&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flaat-the-badge&logo=unity&logoColor=white)
+![Blender](	https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-the-badge&logo=blender&logoColor=black)
+
+
 
 
 
