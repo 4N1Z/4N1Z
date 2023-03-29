@@ -17,7 +17,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
 ![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=black)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-for-the-badge&logo=sass&logoColor=white)
 
 
 
@@ -28,6 +27,10 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flaat-the-badge&logo=unity&logoColor=white)
 ![Blender](	https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-the-badge&logo=blender&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-the-badge&logo=flutter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-the-badge&logo=Jupyter&logoColor=black)
+
+
 
 
 
