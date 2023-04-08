@@ -31,13 +31,6 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-the-badge&logo=Jupyter&logoColor=black)
 
 
-
-
-
-
-
-
-
 ### <samp> Glad to see you here &nbsp;! </samp>
 
 I am a computer engineer, developer and UI/UX Designer. I design code develop create take photos and Travel.
@@ -75,4 +68,6 @@ No activity tracked
  -->
 
 
+### <samp> ✍️**Random Dev Quote** </samp>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
