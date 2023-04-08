@@ -33,7 +33,7 @@
 
 ### <samp> Glad to see you here &nbsp;! </samp>
 
-I am a computer engineer, developer and UI/UX Designer. I design code develop create take photos and Travel.
+I am a AI-ML engineer, developer and UI/UX Designer. I design code develop create take photos and Travel.
 
 As a developer and a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
