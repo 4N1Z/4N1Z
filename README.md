@@ -40,9 +40,9 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
  ### <samp>&gt; Talking about Personal Stuffs: </samp>
  
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/aniz/).
+<!-- - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/aniz/). -->
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [Hashnode](https://aniz.hashnode.dev/).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I write thihngs I learn on [Hashnode](https://aniz.hashnode.dev/).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [mail me](https://anizbinnowshad@gmail)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1lqM3-WuydKjX0w3DwjXWDbMKkVzFq-FM/view)
 
