@@ -15,8 +15,8 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-FFD43B?styleflat-=for-the-badge&logo=python&logoColor=blue)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat-for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-the-badge&logo=react&logoColor=61DAFB)
-![TailWind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-the-badge&logo=tailwind-css&logoColor=black)
 
 
 
