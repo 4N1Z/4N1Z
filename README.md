@@ -33,7 +33,7 @@
 
 ### <samp> Glad to see you here &nbsp;! </samp>
 
-I am a AI-ML engineer, developer and UI/UX Designer. I design code develop create take photos and Travel.
+AI enthusiast, specializing in AI-driven solutions, with a focus on UI/UX design and development. Additionally, I possess strong development skills, enabling me to bring AI-driven projects to life
 
 As a developer and a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
