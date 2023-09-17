@@ -49,14 +49,9 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 
 
  ### <samp> 📈 **My GitHub Stats:** <samp>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=4N1Z&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=4N1Z&theme=dark&background=FFFFFF00&hide_border=true )<br/>
+ 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4n1z&layout=compact&theme=dark) -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=4N1Z&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4N1Z&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
  -->
-
-
-### <samp> ✍️**Random Dev Quote** </samp>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
