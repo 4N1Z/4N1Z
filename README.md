@@ -45,18 +45,7 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I write thihngs I learn on [Hashnode](https://aniz.hashnode.dev/).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [mail me](https://anizbinnowshad@gmail)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1lqM3-WuydKjX0w3DwjXWDbMKkVzFq-FM/view)
-
 </br>
-
-### <samp> 📊 **This Week I Spent My Time On:** </samp>
-<!--START_SECTION:waka-->
-
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 
  ### <samp> 📈 **My GitHub Stats:** <samp>
