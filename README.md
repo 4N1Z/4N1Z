@@ -44,7 +44,7 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I write thihngs I learn on [Hashnode](https://aniz.hashnode.dev/).
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [mail me](https://anizbinnowshad@gmail)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/drive/u/2/folders/1i3Toli4oztxvCyADR6ANjyEiaYei_3s1)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1l6v37tsEasVKHX3OOkvWeHX90hOdmrxF/view?usp=sharing)
 </br>
 
 
