@@ -15,6 +15,7 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 
  ### <samp>&gt; Talking about Personal Stuffs: </samp>
  
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Co Founder [@Soft Served Web](https://www.softservedweb.com/)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Community Ambassador [@Cohere](https://cohere.com/)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently doing projects on GenAI.
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help.
