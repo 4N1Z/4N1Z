@@ -13,8 +13,9 @@ AI enthusiast, specializing in AI-driven solutions, with a focus on UI/UX design
 
 As a developer and a designer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
+ <!--
  ### <samp>&gt; Talking about Personal Stuffs: </samp>
- 
+
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Co Founder [@Soft Served Web](https://www.softservedweb.com/)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Community Ambassador [@Cohere](https://cohere.com/)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently doing projects on GenAI.
@@ -23,6 +24,7 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: [mail me](https://anizbinnowshad@gmail)
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1RNSgRIByazdtS0b36Z0EmFXqTbgWmqkR/view?google_abuse=GOOGLE_ABUSE_EXEMPTION%3DID%3D33a87f5e2e396759:TM%3D1697213970:C%3Dr:IP%3D2405:201:f00f:20b8:34eb:cb80:14f8:bee9-:S%3DyqqKUVyFXF1Gdgy0dmLVW3s%3B+path%3D/%3B+domain%3Dgoogle.com%3B+expires%3DFri,+13-Oct-2023+19:19:30+GMT)
 </br>
+-->
 
 <a href="https://www.buymeacoffee.com/aniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
