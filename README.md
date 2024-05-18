@@ -26,6 +26,8 @@ As a developer and a designer, I enjoy using my obsessive attention to detail, m
 </br>
 -->
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=4N1Z&theme=holi-theme&hide_border=true&border_radius=12)](https://git.io/streak-stats)
+
 <a href="https://www.buymeacoffee.com/aniz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <!-- ### <samp> 📈 **My GitHub Stats:** <samp> -->
